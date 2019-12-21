@@ -10,7 +10,7 @@ import com.cs361d.flashpoint.networking.Server;
 public class DesktopServerLauncher {
     public static void main(String[] arg) {
         // Check if you should connect as a server or a client
-        String publicIP = NetworkManager.getMyIPAddress();
+        String publicIP = NetworkManager.getMyPublicIP();
         if (publicIP.equals(NetworkManager.DEFAULT_SERVER_IP)) {
             Server.createServer();
         } else {

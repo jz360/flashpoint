@@ -11,7 +11,7 @@ import java.net.UnknownHostException;
 public class NetworkManager {
 
   private static NetworkManager instance;
-  final public static String DEFAULT_SERVER_IP = getMyIPAddress();
+  final public static String DEFAULT_SERVER_IP = getMyPublicIP();
   public static final int DEFAULT_SERVER_PORT = 54590;
 
   // In the controller, because both Server and Client need this class
