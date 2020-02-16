@@ -27,15 +27,9 @@ public class NetworkManager {
   public static String getMyPublicIP() {
     String systemIPAddress = "";
     try {
-      URL url_name = new URL("http://bot.whatismyipaddress.com");
-      BufferedReader sc = new BufferedReader(new InputStreamReader(url_name.openStream()));
-      try {
-        // reads system IPAddress
-        systemIPAddress = sc.readLine().trim();
-      } finally {
-        sc.close();
-      }
-    } catch (Exception e) {
+      InetAddress inetAddress = InetAddress.getLocalHost();
+      systemIPAddress = inetAddress.getHostAddress();
+    } catch (UnknownHostException e) {
       e.printStackTrace();
     }
 
