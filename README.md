@@ -1,6 +1,10 @@
 # FlashPoint Board Game (Pyromancer edition) 
 *The original 'FlashPoint Fire Rescue' Board Game made into a distributed 2D game on desktop with a few twists ...*
 
+<p align="center">
+  <img src="https://github.com/jz360/flashpoint/blob/master/fp.gif">
+</p>
+
 ## Context:
 
 - As part of McGill undergraduate course **COMP 361 (Software Engineering Project)**, a senior year project spanning 2 semesters ~ roughly 8 months (Fall 2018 - Winter 2019).
@@ -16,13 +20,6 @@ A desktop app for the board game **FlashPoint Fire Rescue**, a turn-based strate
 - Implementation followed a model-driven engineering approach and the SDLC
 
 - The passionate Pyromancer Team behind the project: David-Gilbert-cs, dch133, Elvric, jz360, mathieuvachon2, simz089s
-
-[![login-4.png](https://i.postimg.cc/vHCxfdrW/login-4.png)](https://postimg.cc/nCYLfgwz)
-
-[![create-3.png](https://i.postimg.cc/9MzcLDVz/create-3.png)](https://postimg.cc/7G8v6Y5y)
-
-[![board-5.png](https://i.postimg.cc/pL24QyDj/board-5.png)](https://postimg.cc/QHyfh8YN)
-
 
 ## Setup FlashPoint (Pyromancer edition):
 
@@ -49,4 +46,12 @@ note: if playing on a single computer, change **IS_MY_TURN_ACTIVATED** variable 
 
 ✔ Added many extra features such as a chatting system, bonus roles (the Pyromancer), random maps, and game effects (audio)
 
-✔ Obtained the top marks in the class (out of 14 teams)
+🏆 Obtained the top marks in the class (out of 14 teams)
+
+## Gallery (images)
+
+[![login-4.png](https://i.postimg.cc/vHCxfdrW/login-4.png)](https://postimg.cc/nCYLfgwz)
+
+[![create-3.png](https://i.postimg.cc/9MzcLDVz/create-3.png)](https://postimg.cc/7G8v6Y5y)
+
+[![board-5.png](https://i.postimg.cc/pL24QyDj/board-5.png)](https://postimg.cc/QHyfh8YN)
