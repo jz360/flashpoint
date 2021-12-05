@@ -47,11 +47,3 @@ note: if playing on a single computer, change **IS_MY_TURN_ACTIVATED** variable 
 ✔ Added many extra features such as a chatting system, bonus roles (the Pyromancer), random maps, and game effects (audio)
 
 🏆 Obtained the top marks in the class (out of 14 teams)
-
-## Gallery (images)
-
-[![login-4.png](https://i.postimg.cc/vHCxfdrW/login-4.png)](https://postimg.cc/nCYLfgwz)
-
-[![create-3.png](https://i.postimg.cc/9MzcLDVz/create-3.png)](https://postimg.cc/7G8v6Y5y)
-
-[![board-5.png](https://i.postimg.cc/pL24QyDj/board-5.png)](https://postimg.cc/QHyfh8YN)
